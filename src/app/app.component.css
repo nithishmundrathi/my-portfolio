@@ -1,0 +1,172 @@
+.mainpage{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    flex-direction: column;
+
+}
+.header{
+    display: flex;
+    border-style: solid;
+    border-color:  rgb(30, 29, 29);
+    border-radius: 2%;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    background-color: rgb(30, 29, 29);
+
+}
+.h-anchor{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+.h-anchor:hover{
+    color: blue; 
+}
+
+.sections{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  
+}
+.summary-s{
+    display: flex;
+    flex-direction: column;
+}
+.iconandstatus{
+    display: flex;
+    align-content: flex-start;
+    gap: 5%;
+    justify-items: center;
+}
+.w-status{
+    border: 2px chartreuse solid;
+    border-radius: 20px;
+    width: 130px;
+    height:30px;
+    padding: 5px;
+}
+.name{
+    width: 60%;
+    height: 50%;
+    font-size: x-large;
+}
+.describeAbout{
+    width: 60%;
+    height: 50%;
+    font-size: larger;
+}
+.describebtns{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.describebtn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px rgb(177, 176, 180) solid;
+    border-radius: 20px;
+    background-color:rgb(47, 43, 43) ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.company-desc{
+    display: flex;
+    justify-content: space-between;
+}
+.role{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: rgb(220, 220, 10);
+    width: 300px;
+}
+.comp-namr{
+    width: 300px;
+
+}
+.listitem::marker{
+    color: rgb(220, 220, 10);
+    font-size: 2em;
+
+}
+
+.experince{
+    margin-top: 150px;
+}
+.logo-text{
+    font-size: 1rem;
+}
+.work-exp-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.work-exp-text{
+    font-weight: bold;
+    font-size: 2.5rem;
+    
+}
+.projects{
+        margin-top: 150px;
+
+}
+.project-img{
+    width: 28rem;
+    height: 15rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+.project-img:hover{
+    transform: scale(1.1);
+
+}
+.projects-list{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-top: 30px;
+
+}
+.techbtns{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.techbtn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px rgb(177, 176, 180) solid;
+    border-radius: 20px;
+    background-color:rgb(47, 43, 43) ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.about-desc{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+.about{
+    margin-top: 5rem;
+}
+.about-heading{
+    font-weight: 300;
+    font-size: 2.5rem;
+}

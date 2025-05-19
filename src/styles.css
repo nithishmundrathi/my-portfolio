@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+head{
+    scroll-behavior: smooth;
+}
+.maindiv{
+    display: flex;
+    background-color: rgba(20, 20, 37, 0.962);
+}
