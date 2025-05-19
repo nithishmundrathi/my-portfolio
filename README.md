@@ -1,59 +1,27 @@
-# MyPortfolio
+# 👨🏻‍💻 Porfolio para programadores y desarrolladores
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
+<div align="center">
+<a href="https://porfolio.dev/">
+<img src="./public/porfolio.webp">
+</a>
+<p></p>
+</div>
 
-## Development server
+<div align="center">
+<!--
+![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
+![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
+![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
+![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev) -->
 
-To start a local development server, run:
+</div>
 
-```bash
-ng serve
-```
+## 🫂 Contribuidores
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+<a href="#">
+  <img src="#" />
+</a>
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<p></p>
