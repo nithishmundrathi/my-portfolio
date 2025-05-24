@@ -4,5 +4,8 @@ head{
 }
 .maindiv{
     display: flex;
-    background-color: rgba(20, 20, 37, 0.962);
+    background-color: rgb(6, 13, 35);
+    font-family: "Onest Variable", system-ui, sans-serif;
+    scroll-behavior: smooth;
+
 }
