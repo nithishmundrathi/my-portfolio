@@ -1,8 +1,8 @@
 # 👨🏻‍💻 portfolio 
 
 <div align="center">
-<a href="https://porfolio.dev/">
-<img src="./public/porfolio.webp">
+<a href="https://d145whpi40sj1g.cloudfront.net/">
+<img src="./public/Portfolio project image.webp">
 </a>
 <p></p>
 </div>
