@@ -6,6 +6,5 @@ head{
     display: flex;
     background-color: rgb(6, 13, 35);
     font-family: "Onest Variable", system-ui, sans-serif;
-    scroll-behavior: smooth;
 
 }
